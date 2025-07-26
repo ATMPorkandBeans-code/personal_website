@@ -1,0 +1,193 @@
+.main-content{
+    background-color: #D3D3D3;
+}
+#heading{
+
+    background-color: #333;
+    font-size: 1.2em;
+    padding: 1em;
+    text-align: center;
+    width: 100%;
+    top: 0;
+    z-index:1000;
+    color: #fff;
+    font-family: serif;
+}
+
+#heading h1{
+
+    font-size: 3em;
+}
+
+#heading a{
+    color: #fff;
+}
+
+#about-me{
+    
+    padding-top: 1em;
+    padding-bottom: 3em;    
+    text-align: center;   
+    width: 100%;
+    top: 0;
+    z-index:1000;
+    padding: 1em;
+    font-family: serif;
+}
+
+.parent-class1{
+    display: flex;
+}
+
+.image{
+
+    flex: 1;
+    margin-left:100px;
+    margin-top:25px;
+
+}
+
+.text{
+
+
+    margin-top: 2em;
+    margin-left: 20 px;
+    margin-right: 150px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #b9e5f0;
+
+}
+
+#about-me h3{
+    font-size: 2.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+     
+}
+
+#about-me p{
+    margin-bottom: 6em;
+    margin-right: 2em;
+    margin-left:2em;
+    
+}
+
+#about-me img{
+
+    width: 400px; 
+    height: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#experience{
+    margin-top: 3em;
+    padding-top: 2em;
+    padding-bottom: 3em;    
+    text-align: center;   
+    width: 100%;
+    top: 0;
+    z-index:1000;
+    padding: 1em;
+    font-family: serif;
+    
+    
+}
+
+.bordered-content1 {
+      border: 2px solid black;
+      height: 90%; 
+      width: 500px; 
+      margin: 0 auto;
+      border-radius: 20px;
+      background-color: #56535e;
+    color: #fff;
+    }
+
+
+.parent-class2{
+
+    display: flex;
+
+    border: 2px solid black;
+    height: 100%; 
+    width: 800px; 
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-bottom:2em;
+    border-radius: 20px;
+     background-color: #56535e;
+    color: #fff;
+}
+
+.skills{
+
+    flex: 1;
+}
+
+.projects{
+
+    flex: 1;
+}
+
+
+#skills{
+    padding-top: 2em;
+    padding-bottom: 3em;    
+    text-align: center;   
+    width: 100%;
+    top: 0;
+    z-index:1000;
+    padding: 0.1em;
+    font-family: serif;
+    list-style-position: inside;
+}
+
+#skills ul{
+
+    font-size: 1.5em;
+}
+
+
+#projects{
+
+    padding-top: 2em;
+    padding-bottom: 3em;    
+    text-align: center;   
+    width: 100%;
+    top: 0;
+    z-index:1000;
+    padding: 0.1em;
+    font-family: serif;
+    list-style-position: inside;
+
+}
+
+
+#projects a{
+
+    color: #fff;
+    font-size: 1.5em;
+}
+
+#contact-info{
+
+   
+
+    background-color: #333;
+    font-size: 1.2em;
+    padding: 1em;
+    text-align: center;
+    width: 100%;
+    top: 0;
+    z-index:1000;
+    color: #fff;
+    font-family: serif;
+    list-style-position: inside;
+}
+
+#contact-info a{
+
+    color: #fff;
+}
